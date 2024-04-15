@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **AWS, ML, React Native**
 
-- 👨‍💻 All of my projects are available at [maheshshastrakar.online](maheshshastrakar.online)
+- 👨‍💻 All of my projects are available at [https://maheshshastrakar.online](https://maheshshastrakar.online)
 
-- 📝 I regularly write articles on [blog.maheshshastrakar.online](blog.maheshshastrakar.online)
+- 📝 I regularly write articles on [https://blog.maheshshastrakar.online](https://blog.maheshshastrakar.online)
 
 - 💬 Ask me about **MERN, AWS**
 
 - 📫 How to reach me **maheshshastrakar123@gmail.com**
 
-- 📄 Know about my experiences [maheshshastrakar.online/resume](maheshshastrakar.online/resume)
+- 📄 Know about my experiences [https://maheshshastrakar.online/resume](https://maheshshastrakar.online/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
