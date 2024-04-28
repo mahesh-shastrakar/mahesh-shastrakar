@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shastrakar</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
 
-- 🔭 I’m currently working on [SMS](sms.maheshshastrakar.online)
+- 🔭 I’m currently working on [SMS](https://sms.maheshshastrakar.online)
 
 - 🌱 I’m currently learning **AWS, ML, React Native**
 
