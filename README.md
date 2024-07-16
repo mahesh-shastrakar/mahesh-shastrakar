@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SMS](https://sms.maheshshastrakar.online)
 
-- 🌱 I’m currently learning **AWS, ML, React Native**
+- 🌱 I’m currently learning **AWS, React Native**
 
 - 👨‍💻 All of my projects are available at [https://maheshshastrakar.online](https://maheshshastrakar.online)
 
