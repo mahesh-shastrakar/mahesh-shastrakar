@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maheshshastrakar123@gmail.com**
 
-- 📄 Know about my experiences [https://maheshshastrakar.online/resume](https://maheshshastrakar.online/resume)
+- 📄 Know about my experiences [https://maheshshastrakar.online/about](https://maheshshastrakar.online/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
