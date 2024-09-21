@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shastrakar</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
+<h4 align="center">Versatile coder proficient in C++, Python, and JavaScript. Excels in algorithmic problem-solving with a keen interest in continuous learning.</h4>
 
 - 🔭 I’m currently working on [SMS](https://sms.maheshshastrakar.online)
 
